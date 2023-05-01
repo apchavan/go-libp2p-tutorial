@@ -30,6 +30,10 @@ This repo contains source code example for running a simple node with [libp2p](h
 
     Windows: `OUTPUT_BINARY_NAME.exe multiaddress`
 
+### Demo of build & execution:
+
+![Demo clip](demo_clip.gif)
+
 ---
 
 Official reference guide: [Run a go-libp2p node](https://docs.libp2p.io/guides/getting-started/go/)
